@@ -62,6 +62,7 @@ render()
         </TouchableOpacity>
       </View>
       
+      {/* Dialog box to get user's text */}
       <Dialog 
         onTouchOutside={()=>{this.setState({showTextContainer : true});}}
         width={0.9}
