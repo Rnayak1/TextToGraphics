@@ -1,5 +1,5 @@
 # Text to Graphics
-## This app will custom text from user and convert it into a graphics image
+## This app will get custom text from user and convert it into a graphics image
 
 # Instructions for setting up the environment
 * **Cloning the Repository**
