@@ -37,6 +37,7 @@ shareMyImage=async()=>{
 
 render()
 {
+  // this will render the initial screen
   return(
     <View>
       <ViewShot ref="screenImage">
